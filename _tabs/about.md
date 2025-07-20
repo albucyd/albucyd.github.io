@@ -3,6 +3,7 @@
 icon: fas fa-info-circle
 order: 4
 ---
+My name is Conrad Noack. This blog will be used as scrapbook for thoughts and projects I’m involved in.
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+You can email me at caribu [at] minimeta [dot] de.
+

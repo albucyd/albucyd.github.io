@@ -1,0 +1,8 @@
+<figure class="image">
+  {% if image.full_url != '' %}
+  <a href="{{ include.full_url }}" target="_blank"><img src="{{ include.url }}" alt="{{ include.description }}"></a>
+  {% else %}
+  <img src="{{ include.url }}" alt="{{ include.description }}">
+  {% endif %}
+  {% if image.description != '' %}<figcaption>{{ include.description }}</figcaption>{% endif %}
+</figure>

@@ -1,0 +1,27 @@
+---
+---
+
+/* prettier-ignore */
+@use 'main
+{%- if jekyll.environment == 'production' -%}
+  .bundle
+{%- endif -%}
+';
+
+/* append your custom style below */
+figure{
+  text-align: center;
+  width: 100%;
+  background: var(--sidebar-bg);
+  padding: 1em;
+}
+figcaption {
+  font-size: smaller;
+}
+div.glightbox-clean h4.gslide-title{
+  text-align: center;
+  margin-bottom: 0;
+}
+div.glightbox-clean div.gdesc-inner {
+  padding: .25em 0;
+}
