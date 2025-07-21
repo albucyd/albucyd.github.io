@@ -11,4 +11,4 @@ categories:
 - Uncategorized
 tags: []
 ---
-Hello World, indeed. This is my latest attempt at trying to blog. Entries in this blog will cover [Ausland](http://ausland-berlin.de "Ausland"), software development, some thoughts on copyright and open source as well as random ideas.
+Hello World, indeed. This is my latest attempt at trying to blog. Entries in this blog will cover [Ausland](https://ausland-berlin.de "Ausland"), software development, some thoughts on copyright and open source as well as random ideas.

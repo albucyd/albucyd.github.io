@@ -17,4 +17,4 @@ Gnadenlos gerecht!
 
 Enteignet SAT1!
 
-[http://unvermittelt.net/](http://zope2.in-berlin.de/wsb/unvermittelt/intern/termine-fur-die-projektbeteiligten/filmaktion-hartz-4-filmt-sat.1/view "unvermittelt: gnadenlos gerächt")
+[https://unvermittelt.net/](https://zope2.in-berlin.de/wsb/unvermittelt/intern/termine-fur-die-projektbeteiligten/filmaktion-hartz-4-filmt-sat.1/view "unvermittelt: gnadenlos gerächt")
