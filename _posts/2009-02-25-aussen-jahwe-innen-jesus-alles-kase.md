@@ -11,7 +11,6 @@ categories: []
 tags:
 - Agamben
 - Gershom Scholem
-- Jacob Taubes
 - Messianismus
 - Norman Cohn
 - Religion
