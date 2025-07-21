@@ -11,11 +11,12 @@ categories: []
 tags:
 - Agamben
 - Gershom Scholem
+- Jacob Taubes
 - Messianismus
 - Norman Cohn
 - Religion
 ---
-{% include image.html url="/assets/wp-content/uploads/2009/02/40yearsmessias-119x300.jpg" description="bibe et absolva: der Messias aus Portugal" full_url="/assets/wp-content/uploads/2009/02/40yearsmessias.jpg" alt="bibe et absolva: der Messias aus Portugal" %} [Gershom Scholem](https://www.nadir.org/nadir/periodika/jungle_world/49/24b.htm "nadir.org/jungle_world: Alfred Schobert über Scholem")s These von der essentiellen Differenz zwischen christlichem und jüdischem Messianismus sondert den Geruch des Dogmas ab. Oder, wie [Jacob Taubes](/tag/jacob-taubes/ "tagged: Jacob Taubes") sagt:
+{% include image.html url="/assets/wp-content/uploads/2009/02/40yearsmessias-119x300.jpg" description="bibe et absolva: der Messias aus Portugal" full_url="/assets/wp-content/uploads/2009/02/40yearsmessias.jpg" alt="bibe et absolva: der Messias aus Portugal" %} [Gershom Scholem](https://www.nadir.org/nadir/periodika/jungle_world/49/24b.htm "nadir.org/jungle_world: Alfred Schobert über Scholem")s These von der essentiellen Differenz zwischen christlichem und jüdischem Messianismus sondert den Geruch des Dogmas ab. Oder, wie Jacob Taubes sagt:
 
 > Ich würde gerne zeigen, dass das von Gershom Scholem präsentierte historische Material [auf das sich og.g These stützt] auch eine andere Lesart gestattet, welche allerdings einen flexibleren theoretischen Bezugsrahmen voraussetzt als den, der seine wissenschaftlichen Bemühungen um ein Verständnis der messianischen Idee im Judentum bestimmt. (J.T. , [Der Preis des Messianismus](https://jungle-world.com/artikel/2008/52/32366.html "Jungle World: Der Preis des Messianismus"), S. 45)
 
