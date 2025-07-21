@@ -13,7 +13,7 @@ tags:
 - extjs
 - htmleditor
 ---
-This plugin provides a format-block for the [extjs HtmlEditor](http://extjs.com/deploy/dev/docs/?class=Ext.form.HtmlEditor "Extjs HtmlEditor"). It is based on the work of [Shea Frederick](http://code.google.com/p/ext-ux-htmleditor-plugins/) and some code from [TinyMCE](http://tinymce.moxiecode.com). This plugin has sofar only been tested in Firefox, so if anybody uses it and finds it to be buggy, please drop me a line and a patch if possible. Save the following code to a file, add this to your html before extjs-all.js and install it the same way as the plugins by Shea Frederick, [so go and take a look there](http://www.vinylfox.com/plugin-set-for-additional-extjs-htmleditor-buttons/). Since I took some code from TinyMCE this code is licensed under the [LGPL](http://www.gnu.org/licenses/lgpl.html).  ``
+This plugin provides a format-block for the [extjs HtmlEditor](https://extjs.com/deploy/dev/docs/?class=Ext.form.HtmlEditor "Extjs HtmlEditor"). It is based on the work of [Shea Frederick](https://code.google.com/p/ext-ux-htmleditor-plugins/) and some code from [TinyMCE](https://tinymce.moxiecode.com). This plugin has sofar only been tested in Firefox, so if anybody uses it and finds it to be buggy, please drop me a line and a patch if possible. Save the following code to a file, add this to your html before extjs-all.js and install it the same way as the plugins by Shea Frederick, [so go and take a look there](https://www.vinylfox.com/plugin-set-for-additional-extjs-htmleditor-buttons/). Since I took some code from TinyMCE this code is licensed under the [LGPL](https://www.gnu.org/licenses/lgpl.html).  ``
   
     Ext.ux.form.HtmlEditor.Formatblock = Ext.extend(Ext.util.Observable , {
     

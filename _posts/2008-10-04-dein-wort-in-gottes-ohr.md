@@ -12,7 +12,7 @@ categories:
 tags:
 - churchsign
 ---
-Im Ausland und in den Sophiensälen findet im Dezember das Festival "[Dein Wort in Gottes Ohr](http://www.dwigo.net "dwigo: Festival")" (abgekürzt dwigo) statt, dass sich mit dem Religiösen in der Kunst beschäftigt. Das Programm, und Texte zu den einzelnen Konzerten, Installationen und Performances kann man nach und nach unter [dwigo.net](http://www.dwigo.net "dwigo: Festival") finden.
+Im Ausland und in den Sophiensälen findet im Dezember das Festival "[Dein Wort in Gottes Ohr](https://www.dwigo.net "dwigo: Festival")" (abgekürzt dwigo) statt, dass sich mit dem Religiösen in der Kunst beschäftigt. Das Programm, und Texte zu den einzelnen Konzerten, Installationen und Performances kann man nach und nach unter [dwigo.net](https://www.dwigo.net "dwigo: Festival") finden.
 
 {% include image.html url="/assets/wp-content/uploads/2008/10/churchsign-anaus-300x249.jpg" description="Image courtesy of churchsigngenerator.com" full_url="/assets/wp-content/uploads/2008/10/churchsign-anaus.jpg" alt="Image courtesy of churchsigngenerator.com" %}
 
