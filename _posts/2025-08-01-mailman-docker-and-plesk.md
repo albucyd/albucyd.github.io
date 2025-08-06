@@ -78,37 +78,32 @@ placed it into the same folder as <code>docker-compose.yaml</code>.
 The contents of this file are as follows:
 ```
 services:
+  mailman-core:
+    environment:
+    - DATABASE_URL=postgresql://mailman:<DBpassword>@database/mailmandb
+    - HYPERKITTY_API_KEY=<hyperkitty-secret>
+    - TZ=Europe/Berlin
+    - MTA=postfix
+    restart: always
+    networks:
+    - mailman
 
-mailman-core:
+  mailman-web:
+    environment:
+    - DATABASE_URL=postgresql://mailman:<DBpassword>@database/mailmandb
+    - HYPERKITTY_API_KEY=<hyperkitty-secret>
+    - TZ=Europe/Berlin
+    - SECRET_KEY=<django-secret-key>
+    - SERVE_FROM_DOMAIN=lists.minimeta.de # e.g. lists.example.org
+    - MAILMAN_ADMIN_USER=<admin_name> # the admin user
+    - MAILMAN_ADMIN_EMAIL=<admin_email> # the admin mail address
+    - UWSGI_STATIC_MAP=/static=/opt/mailman-web-data/static
+    restart: always
 
-environment:
-- DATABASE_URL=postgresql://mailman:<DBpassword>@database/mailmandb
-- HYPERKITTY_API_KEY=<hyperkitty-secret>
-- TZ=Europe/Berlin
-- MTA=postfix
-restart: always
-
-networks:
-- mailman
-
-mailman-web:
-
-environment:
-- DATABASE_URL=postgresql://mailman:<DBpassword>@database/mailmandb
-- HYPERKITTY_API_KEY=<hyperkitty-secret>
-- TZ=Europe/Berlin
-- SECRET_KEY=<django-secret-key>
-- SERVE_FROM_DOMAIN=lists.minimeta.de # e.g. lists.example.org
-- MAILMAN_ADMIN_USER=<admin_name> # the admin user
-- MAILMAN_ADMIN_EMAIL=<admin_email> # the admin mail address
-- UWSGI_STATIC_MAP=/static=/opt/mailman-web-data/static
-restart: always
-
-database:
-
-environment:
-- POSTGRES_PASSWORD=<DBpassword>
-restart: always
+  database:
+    environment:
+    - POSTGRES_PASSWORD=<DBpassword>
+    restart: always
 ```
 Replace the variables in <code><></code> with your own...
 
