@@ -32,8 +32,8 @@ Paulus' Briefe dienen überwiegend der Schlichtung von Auseinandersetzungen in d
   <a href="/assets/wp-content/uploads/2013/07/Paulus_St_Gallen.jpg" target="_blank"><img src="/assets/wp-content/uploads/2013/07/st-peter-st-paul-300x125.jpg" alt="St Paulus"></a>
   <figcaption>
     <a href="https://creativecommons.org/licenses/by-nc/2.0/">
-      <img decoding="async" title="Namensnennung" src="https://minimeta.de/wp-content/uploads/cc-images/cc_icon_attribution_small.gif" alt="Namensnennung" border="0">
-      <img decoding="async" title="Keine kommerzielle Nutzung" src="https://minimeta.de/wp-content/uploads/cc-images/cc_icon_noncomm_small.gif" alt="Keine kommerzielle Nutzung" border="0">
+      <img decoding="async" title="Namensnennung" src="/assets/wp-content/uploads/cc-images/cc_icon_attribution_small.gif" alt="Namensnennung" border="0">
+      <img decoding="async" title="Keine kommerzielle Nutzung" src="/assets/wp-content/uploads/cc-images/cc_icon_noncomm_small.gif" alt="Keine kommerzielle Nutzung" border="0">
     </a><br>
     <a title="Attribution-NonCommercial License" href="https://creativecommons.org/licenses/by-nc/2.0/">Bestimmte Rechte vorbehalten</a> von <a href="https://www.flickr.com/photos/paullew/">Lawrence OP</a></figcaption>
 </figure>

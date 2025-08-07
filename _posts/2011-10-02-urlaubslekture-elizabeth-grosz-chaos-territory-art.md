@@ -21,8 +21,8 @@ tags: []
   <figcaption>
     Leaves by Gloria Petyarre
     <a href="https://creativecommons.org/licenses/by-nc/2.0/">
-      <img decoding="async" title="Namensnennung" src="https://minimeta.de/wp-content/uploads/cc-images/cc_icon_attribution_small.gif" alt="Namensnennung" border="0">
-      <img decoding="async" title="Keine kommerzielle Nutzung" src="https://minimeta.de/wp-content/uploads/cc-images/cc_icon_noncomm_small.gif" alt="Keine kommerzielle Nutzung" border="0">
+      <img decoding="async" title="Namensnennung" src="/assets/wp-content/uploads/cc-images/cc_icon_attribution_small.gif" alt="Namensnennung" border="0">
+      <img decoding="async" title="Keine kommerzielle Nutzung" src="/assets/wp-content/uploads/cc-images/cc_icon_noncomm_small.gif" alt="Keine kommerzielle Nutzung" border="0">
     </a><br>
     <a title="Attribution-NonCommercial License" href="https://creativecommons.org/licenses/by-nc/2.0/">Bestimmte Rechte vorbehalten</a> von <a href="https://www.flickr.com/photos/mrjoro/">mrjoro</a></figcaption>
 </figure>

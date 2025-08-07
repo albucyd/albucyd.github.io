@@ -24,8 +24,8 @@ tags:
   <a href="/assets/wp-content/uploads/2013/05/adorno-at-the-beach.jpg" target="_blank"><img src="/assets/wp-content/uploads/2013/05/adorno-at-the-beach-263x300.jpg" alt="Adorno at the Beach"></a>
   <figcaption>
     <a href="https://creativecommons.org/licenses/by-nc/2.0/">
-      <img decoding="async" title="Namensnennung" src="https://minimeta.de/wp-content/uploads/cc-images/cc_icon_attribution_small.gif" alt="Namensnennung" border="0">
-      <img decoding="async" title="Keine kommerzielle Nutzung" src="https://minimeta.de/wp-content/uploads/cc-images/cc_icon_noncomm_small.gif" alt="Keine kommerzielle Nutzung" border="0">
+      <img decoding="async" title="Namensnennung" src="/assets/wp-content/uploads/cc-images/cc_icon_attribution_small.gif" alt="Namensnennung" border="0">
+      <img decoding="async" title="Keine kommerzielle Nutzung" src="/assets/wp-content/uploads/cc-images/cc_icon_noncomm_small.gif" alt="Keine kommerzielle Nutzung" border="0">
     </a><br>
     <a title="Attribution-NonCommercial License" href="https://creativecommons.org/licenses/by-nc/2.0/">Bestimmte Rechte vorbehalten</a> von <a href="https://www.flickr.com/photos/treborscholz">Trebor Scholz</a></figcaption>
 </figure>
