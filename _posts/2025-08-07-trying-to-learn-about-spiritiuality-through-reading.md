@@ -4,7 +4,7 @@ permalink: /2025/08/07/trying-to-learn-about-spiritiuality-through-reading/
 title: Trying to learn about spirituality through reading
 description: Three books from Carribean authors touching on spirituality
 date: 2025-08-07 08:58:38 -0000
-last_modified_at: 22025-08-07 09:50:33 -0000
+last_modified_at: 2025-08-07 09:50:33 -0000
 publish: true
 pin: false
 categories:
